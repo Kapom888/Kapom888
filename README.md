@@ -113,6 +113,9 @@ Passionate about **clean code**, **system design**, and always eager to explore 
 > • GIPHY – Lightning animations (ใช้เป็นเส้นคลื่น/เส้นสายฟ้า): https://giphy.com/explore/lightning-animation
 
 ---
+<p align="center">
+  <img src="https://github.com/Kapom888/Kapom888/raw/main/assets/eridan-homestuck" width="100%" alt="Kamehameha Wave"/>
+</p>
 
 <!-- ปิดท้ายด้วยเส้น “พลังงาน” อีกที -->
 <p align="center">
