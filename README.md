@@ -114,8 +114,35 @@ Passionate about **clean code**, **system design**, and always eager to explore 
 
 ---
 <p align="center">
-  <img src="https://github.com/Kapom888/Kapom888/raw/main/assets/eridan-homestuck" width="100%" alt="Kamehameha Wave"/>
+  <!-- ซ้าย 20 รูป -->
+  <img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="2%"/><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck.gif" width="28%" alt="Kamehameha Wave"/></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub>
 </p>
+
+<table style="border-collapse: collapse; border-spacing: 0;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="27%"/></td>
+    <td><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" width="27%"/></td>
+    <td><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck.gif" width="27%"/></td>
+  </tr>
+</table>
+
+<p align="center">
+  <!-- รูปซ้าย -->
+  <img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" height="120"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck%20(1).gif" height="120"/><img src="https://github.com/Kapom888/Kapom888/raw/main/eridan-homestuck.gif" height="130" width="350"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- ปิดท้ายด้วยเส้น “พลังงาน” อีกที -->
 <p align="center">
