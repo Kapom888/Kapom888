@@ -14,9 +14,7 @@
 
 ## 🤖 About Me  
 **Songphon Khamwongsa**  
-An enthusiastic **IT student** with hands-on experience in developing **Web and Mobile Applications**.  
-Skilled in **Spring Boot, Spring MVC, Flutter**, **MySQL, Oracle**, and **API Testing (Postman)**.  
-Passionate about **clean code**, **system design**, and always eager to explore new tech 🚀.  
+A dedicated Information Technology student with hands-on experience in developing web and mobile applications. Skilled in Java Spring Boot, Spring MVC, Flutter, and proficient in working with databases such as MySQL and Oracle. Strong in SQL, HTML/CSS, and API testing with Postman. Eager to apply technical knowledge and problem-solving skills to build scalable, high-quality systems, while continuously learning new technologies to contribute to valuable software projects in dynamic organizations.
 
 ✨ *Dean’s List (2022–2025), GPA 3.65/4.00*  
 
@@ -32,7 +30,7 @@ Passionate about **clean code**, **system design**, and always eager to explore 
 ## ⚡ Featured Projects  
 | Icon | Project | Description | Stack | Link |
 |------|---------|-------------|-------|------|
-| 🤖 | **Share Trip Application** | Mobile app for group travel expense management. Split expenses, request payments, refunds, activities with **PromptPay QR + Slip Verification**. | Flutter (FE), Spring Boot (BE), MySQL | [🔗 Repo](#) |
+| 🤖 | **Share Trip Application** | Mobile app for group travel expense management. Split expenses, request payments, refunds, activities with **PromptPay QR + Slip Verification**. | Flutter (FE), Spring Boot (BE), MySQL | [🔗 Repo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
 | ⚡ | **Trading News Website** | Buy & sell news platform with posting, categories, reactions & admin panel for transactions. | Spring MVC + JSP + MySQL / Go + MySQL | [🔗 Repo](#) |
 
 ---
@@ -100,7 +98,6 @@ Passionate about **clean code**, **system design**, and always eager to explore 
   <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="100%" height="6" alt="Lightning divider"/>
 </p>
 
-### 🐉 Dragon Ball Wave (Kamehameha) — ฮา ๆ
 <p align="center">
   <!-- ตัวอย่าง 1: ใส่ลิงก์ .gif โดยตรง -->
   <!-- แทนที่ URL ด้วยลิงก์รูปแบบ .gif จาก GIPHY/Tenor -->
