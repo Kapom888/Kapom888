@@ -31,7 +31,7 @@ A dedicated Information Technology student with hands-on experience in developin
 | Icon | Project | Description | Stack | Link |
 |------|---------|-------------|-------|------|
 | 🤖 | **Share Trip Application** | Mobile app for group travel expense management. Split expenses, request payments, refunds, activities with **PromptPay QR + Slip Verification**. | Flutter (FE), Spring Boot (BE), MySQL | [🔗 Repo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
-| ⚡ | **Trading News Website** | Buy & sell news platform with posting, categories, reactions & admin panel for transactions. | Spring MVC + JSP + MySQL / Go + MySQL | [🔗 Repo](#) |
+| ⚡ | **Trading News Website** | Buy & sell news platform with posting, categories, reactions & admin panel for transactions. | Spring MVC + JSP + MySQL / Go + MySQL | [🔗 Repo](https://github.com/Songpom/Buy-Sell-News-Website-Project) |
 
 ---
 
