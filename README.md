@@ -72,10 +72,14 @@ A dedicated Information Technology student with hands-on experience in developin
 
 ---
 
-## 🧮 GitHub Stats  
+## 🧮 GitHub Stats (Dragon Ball Style)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kapom888&show_icons=true&hide_title=true" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kapom888" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Songpom&show_icons=true&theme=radical&title_color=FF8300&icon_color=FFD700&text_color=FFFFFF&bg_color=000000" height="170" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Songpom&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFD700" height="170" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songpom&layout=compact&theme=radical&title_color=FF8300&text_color=FFFFFF&bg_color=000000" height="170" alt="languages"/>
 </p>
 
 ---
@@ -90,38 +94,24 @@ A dedicated Information Technology student with hands-on experience in developin
 ## 🌈 Special Effects  
 <p align="center">
   <!-- Typing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A47148&center=true&vCenter=true&width=500&lines=Backend+Developer;Mobile+Developer;Clean+Code+Advocate;Always+Learning+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8300&center=true&vCenter=true&width=500&lines=Backend+Developer;Mobile+Developer;Clean+Code+Advocate;Always+Learning+⚡" alt="Typing SVG" />
 </p>
 
-<!-- ⚡ Animated lightning divider (เลือก GIF เส้นสายฟ้าที่ชอบแล้ววางแทน URL) -->
+<!-- ⚡ Animated lightning divider -->
 <p align="center">
   <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="100%" height="6" alt="Lightning divider"/>
 </p>
 
 <p align="center">
-  <!-- ตัวอย่าง 1: ใส่ลิงก์ .gif โดยตรง -->
-  <!-- แทนที่ URL ด้วยลิงก์รูปแบบ .gif จาก GIPHY/Tenor -->
-  <img src="https://media.tenor.com/-7IMnkF1DRsAAAAi/ultra-instinct.gif" width="420" "/>
+  <!-- Dragon Ball Kamehameha -->
+  <img src="https://media.tenor.com/-7IMnkF1DRsAAAAi/ultra-instinct.gif" width="420" />
 </p>
 
-
 <p align="center">
-  <!-- ซ้าย 20 รูป -->
   <img src="https://github.com/Kapom888/Kapom888/raw/main/eridan_combined_150_bigger_char.gif" width="4000px"/>
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ปิดท้ายด้วยเส้น “พลังงาน” อีกที -->
+<!-- Closing Power Divider -->
 <p align="center">
   <img src="https://media.tenor.com/KUXIWC9D5_UAAAAi/my-hero-academia-boku-no-hero-academia.gif" width="100%" height="3" alt="Lightning divider"/>
 </p>
