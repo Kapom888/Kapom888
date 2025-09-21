@@ -14,7 +14,7 @@
 
 ## 🤖 About Me  
 **Songphon Khamwongsa**  
-A dedicated Information Technology student with hands-on experience in developing web and mobile applications. Skilled in Java Spring Boot, Spring MVC, Flutter, and proficient in working with databases such as MySQL and Oracle. Strong in SQL, HTML/CSS, and API testing with Postman. Eager to apply technical knowledge and problem-solving skills to build scalable, high-quality systems, while continuously learning new technologies to contribute to valuable software projects in dynamic organizations.
+Information Technology student with practical experience in web and mobile application development. Skilled in Java, Spring Boot, Spring MVC, Flutter, HTML/CSS and API testing with Postman. Experienced in working with databases such as MySQL and Oracle. Committed to applying technical knowledge and problem-solving skills, and constantly learning new technologies to create valuable software for the organization.
 
 ✨ *Dean’s List (2022–2025), GPA 3.65/4.00*  
 
