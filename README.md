@@ -86,7 +86,7 @@ A dedicated Information Technology student with hands-on experience in developin
 
 ## 📫 Contact  
 * 📧 Email: [kwan.18997@gmail.com](mailto:kwan.18997@gmail.com)  
-* 🔗 GitHub: [Kapom888](https://github.com/Kapom888)  
+* 🔗 GitHub: [Kapom888](https://github.com/Songpom)  
 * 🔗 LinkedIn: _Your LinkedIn Link_  
 
 ---
