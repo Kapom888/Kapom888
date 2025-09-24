@@ -14,7 +14,7 @@
 
 ## 🤖 About Me  
 **Songphon Khamwongsa**  
-Information Technology student with practical experience in web and mobile application development. Skilled in Java, Spring Boot, Spring MVC, Flutter, HTML/CSS and API testing with Postman. Experienced in working with databases such as MySQL and Oracle. Committed to applying technical knowledge and problem-solving skills, and constantly learning new technologies to create valuable software for the organization.
+Information Technology student with hands-on experience in **web** and **mobile** application development. Skilled in **Java (Spring Boot, Spring MVC)**, **Flutter (Dart)**, strong with **SQL**, **HTML/CSS/JS**, **REST API testing (Postman)**, and experienced with **MySQL** and **Oracle**. Always learning and eager to build scalable, high-quality systems that deliver real value.
 
 ✨ *Dean’s List (2022–2025), GPA 3.65/4.00*  
 
@@ -22,23 +22,26 @@ Information Technology student with practical experience in web and mobile appli
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,postman,git,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,go,mysql,html,css,js,postman,git,docker&theme=light" />
 </p>
+
+**Also familiar with:** Selenium Robot Framework • Agile/Scrum
 
 ---
 
 ## ⚡ Featured Projects  
 | Icon | Project | Description | Stack | Link |
 |------|---------|-------------|-------|------|
-| 🤖 | **Share Trip Application** | Mobile app for group travel expense management. Split expenses, request payments, refunds, activities with **PromptPay QR + Slip Verification**. | Flutter (FE), Spring Boot (BE), MySQL | [🔗 Repo](https://github.com/Songpom/ShareTrip-Mobile-Project) |
-| ⚡ | **Trading News Website** | Buy & sell news platform with posting, categories, reactions & admin panel for transactions. | Spring MVC + JSP + MySQL / Go + MySQL | [🔗 Repo](https://github.com/Songpom/Buy-Sell-News-Website-Project) |
+| 🤖 | **Share Trip Application** | Group travel expense app: split equal/custom, PromptPay QR, slip verification, refunds, activity log. | Flutter (FE), Spring Boot (BE), MySQL | [🔗 Repo](https://github.com/Songpom/ShareTrip-Mobile-Project) |
+| ⚡ | **Trading News Website** | Buy & sell news platform with posts, categories, reactions, admin review & transactions. | Spring MVC + JSP + MySQL / Go + MySQL | [🔗 Repo](https://github.com/Songpom/Buy-Sell-News-Website-Project) |
+| 📰 | **News Management Website** | Web platform to publish & manage news content. | Go + MySQL | — |
 
 ---
 
 ## 📈 Highlights  
-- ⚡ Designed RESTful APIs & relational DB for real projects  
-- ⚡ Clean architecture (Controller / Service / Repository)  
-- ⚡ Agile/Scrum for sprint planning & continuous delivery  
+- Designed RESTful APIs & relational databases for real projects  
+- Clean architecture (Controller / Service / Repository)  
+- Agile/Scrum for sprint planning & continuous delivery  
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Lightning Robot"/>
@@ -47,17 +50,23 @@ Information Technology student with practical experience in web and mobile appli
 ---
 
 ## 🎓 Education  
-- **B.Sc. in Information Technology**, Maejo University (2022–2025)  
-  - Dean’s List • GPA 3.65/4.00  
+- **B.Sc. in Information Technology**, Maejo University (2022–Present)  
+  - **Expected Graduation:** May **2026** • **GPA 3.65/4.00**  
   - Relevant Coursework: OOP, Algorithms, DBMS, Web Dev, Mobile Dev, Software Engineering
+
+---
+
+## 🏆 Awards  
+- **Academic Excellence Award in Information Technology (2022–2025)** — Maejo University
 
 ---
 
 ## 🧪 Experience / Projects-in-Action  
 - **Share Trip (Final Year Project)** — Flutter + Spring Boot + MySQL  
-  - Expense Split (Equal / Custom), PromptPay QR, Slip Verification, Refund Flow, Activities  
+  - Expense Split (Equal/Custom), PromptPay QR, Slip Verification, Refund Flow, Activities  
 - **Trading News Website** — Spring MVC + JSP (+ Admin Panel)  
-  - Category/Reaction System, Content Moderation, Transaction Review
+  - Category/Reaction System, Content Moderation, Transaction Review  
+- **News Management Website** — Go + MySQL
 
 ---
 
@@ -68,7 +77,7 @@ Information Technology student with practical experience in web and mobile appli
 ---
 
 ## 🗣️ Languages  
-- Thai (Native) • English (Intermediate)
+- **Thai:** Native • **English:** Intermediate
 
 ---
 
@@ -86,11 +95,10 @@ Information Technology student with practical experience in web and mobile appli
 
 ## 📫 Contact  
 * 📧 Email: [kwan.18997@gmail.com](mailto:kwan.18997@gmail.com)  
-* 🔗 GitHub: [Songpom](https://github.com/Songpom)   
+* 🔗 GitHub: [Songpom](https://github.com/Songpom)
 
 ---
 
-## 🌈 Special Effects  
 <p align="center">
   <!-- Typing effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8300&center=true&vCenter=true&width=500&lines=Backend+Developer;Mobile+Developer;Clean+Code+Advocate;Always+Learning+⚡" alt="Typing SVG" />
