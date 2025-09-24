@@ -86,8 +86,7 @@ Information Technology student with practical experience in web and mobile appli
 
 ## 📫 Contact  
 * 📧 Email: [kwan.18997@gmail.com](mailto:kwan.18997@gmail.com)  
-* 🔗 GitHub: [Songpom](https://github.com/Songpom)  
-* 🔗 LinkedIn: _Your LinkedIn Link_  
+* 🔗 GitHub: [Songpom](https://github.com/Songpom)   
 
 ---
 
