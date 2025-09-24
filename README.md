@@ -1,4 +1,4 @@
-# Hi there ⚡🤖
+# Hi Everyone⚡🤖
 
 <p align="center">
   <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="180" alt="Robot waving"/>
