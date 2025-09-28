@@ -1,7 +1,6 @@
 # Hi Everyone My Name Is Songphon Khamwongsa⚡🤖  
 
 
-📄 [My Resume](https://drive.google.com/drive/folders/1Io345slHl1ghj98803pMDTLZ1XYylRf2?usp=drive_link)  
 
 
 <p align="center">
@@ -17,6 +16,11 @@
 ---
 
 ## 🤖 About Me  
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1Io345slHl1ghj98803pMDTLZ1XYylRf2?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄 View My Resume-FF8300?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000" alt="Resume"/>
+  </a>
+</p>
 **Songphon Khamwongsa**  
 Information Technology student with hands-on experience in **web** and **mobile** application development. Skilled in **Java (Spring Boot, Spring MVC)**, **Flutter (Dart)**, strong with **SQL**, **HTML/CSS/JS**, **REST API testing (Postman)**, and experienced with **MySQL** and **Oracle**. Always learning and eager to build scalable, high-quality systems that deliver real value.
 
