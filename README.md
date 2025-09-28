@@ -1,4 +1,8 @@
-# Hi Everyone⚡🤖
+# Hi Everyone My Name Is Songphon Khamwongsa⚡🤖  
+
+
+📄 [My Resume](https://drive.google.com/drive/folders/1Io345slHl1ghj98803pMDTLZ1XYylRf2?usp=drive_link)  
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="180" alt="Robot waving"/>
