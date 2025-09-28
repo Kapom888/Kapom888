@@ -80,7 +80,6 @@ Information Technology student with hands-on experience in **web** and **mobile*
 
 ## 🪪 Certifications & Tools  
 - Postman API Fundamentals • Git & GitHub • Docker Basics  
-- Testing: JUnit, Postman Collections • CI basics (GitHub Actions)
 
 ---
 
