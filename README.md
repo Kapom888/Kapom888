@@ -60,7 +60,7 @@ Information Technology student with hands-on experience in **web** and **mobile*
 ## 🎓 Education  
 - **B.Sc. in Information Technology**, Maejo University (2022–Present)  
   - **Expected Graduation:** May **2026** • **GPA 3.65/4.00**  
-  - Relevant Coursework: OOP, Algorithms, DBMS, Web Dev, Mobile Dev, Software Engineering
+  - Relevant Coursework: OOP, Algorithms, DBMS, Web Dev, Mobile Dev
 
 ---
 
